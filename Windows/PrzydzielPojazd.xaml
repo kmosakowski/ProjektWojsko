@@ -1,0 +1,46 @@
+﻿<Window x:Class="ProjektWojsko.Windows.PrzydzielPojazd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjektWojsko.Windows"
+        mc:Ignorable="d"
+        Icon="/ProjektWojsko;component/Resource/icon.png"
+        Title="PrzydzielPojazd" Height="450" Width="412.342">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="10"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Przydziel" x:Name="przydzielLabel"  Grid.Column="0" Grid.Row="0" />
+        <ComboBox x:Name="przydzielComboBox" Grid.ColumnSpan="3" HorizontalAlignment="Stretch" Margin="0.286,0,0.857,32.143" Grid.RowSpan="2" Grid.Column="1"  />
+        <Label Content="Nr. Rejestracyjny" x:Name="nrRejestracyjnyLabel"  Grid.Column="0" Grid.Row="2" />
+        <TextBox x:Name="nrRejestracyjnyTextBox" Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="3" HorizontalAlignment="Stretch"/>
+        <Label Content="Rok Produkcji" x:Name="rokProdukcjiLabel"  Grid.Column="0" Grid.Row="4"/>
+        <TextBox x:Name="rokProdukcjiTextBox" TextAlignment="Justify" Grid.Column="1" Grid.Row="4" Grid.ColumnSpan="3" HorizontalAlignment="Stretch" ToolTip="Np 01.01.2000"/>
+        <Label Content="Specjalny" x:Name="specjalnyLabel"  Grid.Column="0" Grid.Row="5" Margin="0,32.143,0.429,0" Grid.RowSpan="2" />
+        <ComboBox x:Name="specjalnyComboBox" Grid.ColumnSpan="4" HorizontalAlignment="Stretch" Margin="0.571,32.143,9.857,0" Grid.RowSpan="2" Grid.Row="5" Grid.Column="1"  />
+        <Label Content="Status" x:Name="statusLabel"  Grid.Column="0" Grid.Row="8" />
+        <ComboBox x:Name="statusComboBox" Grid.ColumnSpan="4" HorizontalAlignment="Stretch" Margin="0.571,32,9.857,32.143" Grid.RowSpan="3" Grid.Row="7" Grid.Column="1"  />
+        <Button Content="Dodaj" x:Name="dodajButton" Click="CreateVehivle_Click" Grid.Column="1" Grid.Row="12"  FontWeight="Bold" Background="#5D6E53"/>
+        <Button Content="Zamknij" x:Name="zamknijButton" Click="Close_Click" Grid.Column="3" Grid.Row="12"  FontWeight="Bold" Background="#5D6E53"/>
+    </Grid>
+</Window>

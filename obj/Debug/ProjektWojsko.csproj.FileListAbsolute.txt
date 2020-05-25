@@ -1,0 +1,96 @@
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\bin\Debug\ProjektWojsko.exe.config
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\bin\Debug\ProjektWojsko.exe
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\bin\Debug\ProjektWojsko.pdb
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\ProjektWojsko.csprojAssemblyReference.cache
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\MainWindow.g.cs
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\App.g.cs
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\ProjektWojsko_MarkupCompile.cache
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\ProjektWojsko_MarkupCompile.lref
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\MainWindow.baml
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\ProjektWojsko.g.resources
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\ProjektWojsko.Properties.Resources.resources
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\ProjektWojsko.csproj.GenerateResource.cache
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\ProjektWojsko.csproj.CoreCompileInputs.cache
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\ProjektWojsko.exe
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\ProjektWojsko.pdb
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\bin\Debug\EntityFramework.dll
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\bin\Debug\EntityFramework.xml
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\ProjektWojsko.csproj.CopyComplete
+C:\Users\Kogut\Desktop\ProjektWojsko\bin\Debug\ProjektWojsko.exe.config
+C:\Users\Kogut\Desktop\ProjektWojsko\bin\Debug\ProjektWojsko.exe
+C:\Users\Kogut\Desktop\ProjektWojsko\bin\Debug\ProjektWojsko.pdb
+C:\Users\Kogut\Desktop\ProjektWojsko\bin\Debug\EntityFramework.dll
+C:\Users\Kogut\Desktop\ProjektWojsko\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kogut\Desktop\ProjektWojsko\bin\Debug\EntityFramework.xml
+C:\Users\Kogut\Desktop\ProjektWojsko\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kogut\Desktop\ProjektWojsko\obj\Debug\ProjektWojsko.csprojAssemblyReference.cache
+C:\Users\Kogut\Desktop\ProjektWojsko\obj\Debug\MainWindow.g.cs
+C:\Users\Kogut\Desktop\ProjektWojsko\obj\Debug\Windows\Pojazd.g.cs
+C:\Users\Kogut\Desktop\ProjektWojsko\obj\Debug\Windows\Start.g.cs
+C:\Users\Kogut\Desktop\ProjektWojsko\obj\Debug\App.g.cs
+C:\Users\Kogut\Desktop\ProjektWojsko\obj\Debug\ProjektWojsko_MarkupCompile.cache
+C:\Users\Kogut\Desktop\ProjektWojsko\obj\Debug\ProjektWojsko_MarkupCompile.lref
+C:\Users\Kogut\Desktop\ProjektWojsko\obj\Debug\MainWindow.baml
+C:\Users\Kogut\Desktop\ProjektWojsko\obj\Debug\Windows\Pojazd.baml
+C:\Users\Kogut\Desktop\ProjektWojsko\obj\Debug\Windows\Start.baml
+C:\Users\Kogut\Desktop\ProjektWojsko\obj\Debug\ProjektWojsko.g.resources
+C:\Users\Kogut\Desktop\ProjektWojsko\obj\Debug\ProjektWojsko.Properties.Resources.resources
+C:\Users\Kogut\Desktop\ProjektWojsko\obj\Debug\ProjektWojsko.csproj.GenerateResource.cache
+C:\Users\Kogut\Desktop\ProjektWojsko\obj\Debug\ProjektWojsko.csproj.CoreCompileInputs.cache
+C:\Users\Kogut\Desktop\ProjektWojsko\obj\Debug\ProjektWojsko.csproj.CopyComplete
+C:\Users\Kogut\Desktop\ProjektWojsko\obj\Debug\ProjektWojsko.exe
+C:\Users\Kogut\Desktop\ProjektWojsko\obj\Debug\ProjektWojsko.pdb
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\Windows\StartPage.g.cs
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\Windows\StartPage.baml
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\Windows\PojazdPage.g.cs
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\Windows\PojazdPage.baml
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\Windows\About.g.cs
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\Windows\About.baml
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\Windows\PrzydzielPojazd.g.cs
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\Windows\PrzydzielPojazd.baml
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\Windows\PojazdMechanikPage.g.cs
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\Windows\PojazdMechanikPage.baml
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\Windows\Login.g.cs
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\Windows\Login.baml
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\Windows\OsobaPage.g.cs
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\Windows\OsobaPage.baml
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\Windows\Informacje.g.cs
+C:\Users\kmosa\Documents\IT_Space\Visual Studio\Projekty\ProjektWojsko\obj\Debug\Windows\Informacje.baml
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\bin\Debug\ProjektWojsko.exe.config
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\bin\Debug\ProjektWojsko.exe
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\bin\Debug\ProjektWojsko.pdb
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\bin\Debug\EntityFramework.dll
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\bin\Debug\EntityFramework.xml
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\ProjektWojsko.csprojAssemblyReference.cache
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\MainWindow.g.cs
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\Windows\About.g.cs
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\Windows\Informacje.g.cs
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\Windows\Login.g.cs
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\Windows\OsobaPage.g.cs
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\Windows\PojazdMechanikPage.g.cs
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\Windows\PojazdPage.g.cs
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\Windows\PrzydzielPojazd.g.cs
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\Windows\StartPage.g.cs
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\App.g.cs
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\ProjektWojsko_MarkupCompile.cache
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\ProjektWojsko_MarkupCompile.lref
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\MainWindow.baml
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\Windows\About.baml
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\Windows\Informacje.baml
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\Windows\Login.baml
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\Windows\OsobaPage.baml
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\Windows\PojazdMechanikPage.baml
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\Windows\PojazdPage.baml
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\Windows\PrzydzielPojazd.baml
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\Windows\StartPage.baml
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\ProjektWojsko.g.resources
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\ProjektWojsko.Properties.Resources.resources
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\ProjektWojsko.csproj.GenerateResource.cache
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\ProjektWojsko.csproj.CoreCompileInputs.cache
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\ProjektWojsko.csproj.CopyComplete
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\ProjektWojsko.exe
+C:\Users\kmosa\Documents\IT_Space\GIT\ProjektyIT\ProjektWojsko\Code\obj\Debug\ProjektWojsko.pdb
